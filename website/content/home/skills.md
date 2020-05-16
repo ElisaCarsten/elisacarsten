@@ -21,16 +21,16 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-  
-[[feature]]
   icon = "poll"
   icon_pack = "fas"
   name = "Research Methods"
   description = ""
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""  
 
 # Uncomment to use emoji icons.
 # [[feature]]

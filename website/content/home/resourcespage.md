@@ -46,12 +46,14 @@ This section is currently under construction, but will soon feature resources I 
 
 
 R and RMarkdown Resources
-- [RStudio's RMarkdown Guide](https://rmarkdown.rstudio.com/lesson-1.html)
-- [RMarkdown book](https://bookdown.org/yihui/rmarkdown/) (Yihui Xie, J. J. Allaire, Garrett Grolemund)
-- [RMarkdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.166073470.179623980.1589556320-211446286.1589556320)
+- [R Cookbook](http://www.cookbook-r.com/) (Winston Chang)
 - [R Packages](http://r-pkgs.had.co.nz/)
+- [Quick R Cheat Sheet for Beginners](https://rpubs.com/alliechoate/504079) (Allie Choate)
 - [R for Data Science (r4ds)](https://r4ds.had.co.nz/) (Hadley Wickham)
 - [Advanced R](http://adv-r.had.co.nz/) (Hadley Wickham)
+- [RStudio's RMarkdown Guide](https://rmarkdown.rstudio.com/lesson-1.html)
+- [RMarkdown book](https://bookdown.org/yihui/rmarkdown/) (Yihui Xie, J. J. Allaire, & Garrett Grolemund)
+- [RMarkdown Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf?_ga=2.166073470.179623980.1589556320-211446286.1589556320)
 
 Miscellaneous Text Recommendations
 - [Link Title](https://sourcethemes.com/academic/)
