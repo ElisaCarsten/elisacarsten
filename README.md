@@ -1,6 +1,3 @@
-## This is my GitHub page
+## This is the GitHub page for my website.
 
 # *Under construction*
-
-
-Website coming soon.
